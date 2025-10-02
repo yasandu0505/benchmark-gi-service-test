@@ -1,3 +1,0 @@
-// window.configs = {
-//     apiUrl : "/api"
-// };
